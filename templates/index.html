@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Emotion Detection</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="{{ url_for('static', filename='mywebscript.js') }}"></script>
+</head>
+<body class="bg-light">
+    <div class="container py-5">
+        <div class="card shadow-sm p-4 mx-auto" style="max-width: 700px;">
+            <h1 class="text-center mb-4 text-primary">Emotion Detection Application</h1>
+            <p class="text-muted text-center">Analyze the emotions conveyed in your text using IBM Watson NLP.</p>
+            <hr>
+            <div class="form-group">
+                <label for="textToAnalyze" class="font-weight-bold">Text to analyze:</label>
+                <textarea class="form-control" id="textToAnalyze" rows="4" placeholder="Enter text to analyze here..."></textarea>
+            </div>
+            <button type="button" class="btn btn-primary btn-block font-weight-bold" onclick="RunSentimentAnalysis()">Run Emotion Detection</button>
+            <div class="mt-4">
+                <div id="system_response" class="p-3" style="display: none; border-radius: 5px;"></div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
