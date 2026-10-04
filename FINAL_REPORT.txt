@@ -5,7 +5,7 @@ IBM EMOTION DETECTION PROJECT - FINAL COMPLETION REPORT
 Project: IBM Emotion Detection Application (Coursera/IBM Skills Network)
 Status: COMPLETE & READY FOR SUBMISSION
 Date: June 1, 2026
-Repository: https://github.com/brovk2008/emotion-detection-project
+Repository: https://github.com/vedantvk12/emotion
 
 ================================================================================
 PROJECT STRUCTURE
@@ -44,7 +44,7 @@ EmotionDetectionProject/
 │   └── FINAL_REPORT.txt                   [This file]
 │
 └── GIT REPOSITORY
-    └── https://github.com/brovk2008/emotion-detection-project
+    └── https://github.com/vedantvk12/emotion
 
 ================================================================================
 FILE COUNT & SIZE VERIFICATION
@@ -160,7 +160,7 @@ COURSERA ANSWER MAPPING
 ================================================================================
 
 Question 1: README Link
-  → https://github.com/brovk2008/emotion-detection-project/blob/main/README.md
+  → https://github.com/vedantvk12/emotion/blob/main/README.md
 
 Question 2: Emotion Detection Code
   → Copy from: 2a_emotion_detection.txt
@@ -175,7 +175,7 @@ Question 5: Formatted Output Test
   → Copy from: 3b_formatted_output_test.txt
 
 Question 6: Package __init__.py Link
-  → https://github.com/brovk2008/emotion-detection-project/blob/main/EmotionDetection/__init__.py
+  → https://github.com/vedantvk12/emotion/blob/main/EmotionDetection/__init__.py
 
 Question 7: Package Import Test
   → Copy from: 4b_packaging_test.txt
@@ -261,7 +261,7 @@ All dependencies installed and functional.
 GIT REPOSITORY STATUS
 ================================================================================
 
-Repository: https://github.com/brovk2008/emotion-detection-project
+Repository: https://github.com/vedantvk12/emotion
 Branch: main
 Status: Up to date
 
@@ -352,7 +352,7 @@ in this project repository.
 HOW TO SUBMIT
 ================================================================================
 
-1. Go to https://github.com/brovk2008/emotion-detection-project
+1. Go to https://github.com/vedantvk12/emotion
 2. Copy the README URL for Question 1
 3. Copy the __init__.py URL for Question 6
 4. For Questions 2-5, 7-16: Copy contents from corresponding evidence files

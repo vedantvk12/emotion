@@ -10,7 +10,7 @@ QUESTION 1: README Link
 ================================================================================
 
 ANSWER:
-https://github.com/brovk2008/emotion-detection-project/blob/main/README.md
+https://github.com/vedantvk12/emotion/blob/main/README.md
 
 PROJECT STRUCTURE:
 - Project is a complete Python/Flask application
@@ -31,7 +31,7 @@ KEY COMPONENTS:
 - Proper error handling for HTTP 400
 
 FROM:
-https://github.com/brovk2008/emotion-detection-project/blob/main/EmotionDetection/emotion_detection.py
+https://github.com/vedantvk12/emotion/blob/main/EmotionDetection/emotion_detection.py
 
 ================================================================================
 QUESTION 3: Application Creation Proof
@@ -74,7 +74,7 @@ QUESTION 6: Package __init__.py Link
 ================================================================================
 
 ANSWER:
-https://github.com/brovk2008/emotion-detection-project/blob/main/EmotionDetection/__init__.py
+https://github.com/vedantvk12/emotion/blob/main/EmotionDetection/__init__.py
 
 CONTENT:
 ```python
@@ -146,7 +146,7 @@ INCLUDES:
 - Proper response formatting
 
 FROM:
-https://github.com/brovk2008/emotion-detection-project/blob/main/server.py
+https://github.com/vedantvk12/emotion/blob/main/server.py
 
 ================================================================================
 QUESTION 11: Flask Deployment Test
@@ -267,14 +267,14 @@ QUALITY METRICS:
 GITHUB REPOSITORY LINKS
 ================================================================================
 
-Repository: https://github.com/brovk2008/emotion-detection-project
+Repository: https://github.com/vedantvk12/emotion
 
 KEY FILES:
-- README: https://github.com/brovk2008/emotion-detection-project/blob/main/README.md
-- emotion_detection.py: https://github.com/brovk2008/emotion-detection-project/blob/main/EmotionDetection/emotion_detection.py
-- __init__.py: https://github.com/brovk2008/emotion-detection-project/blob/main/EmotionDetection/__init__.py
-- server.py: https://github.com/brovk2008/emotion-detection-project/blob/main/server.py
-- test_emotion_detection.py: https://github.com/brovk2008/emotion-detection-project/blob/main/test_emotion_detection.py
+- README: https://github.com/vedantvk12/emotion/blob/main/README.md
+- emotion_detection.py: https://github.com/vedantvk12/emotion/blob/main/EmotionDetection/emotion_detection.py
+- __init__.py: https://github.com/vedantvk12/emotion/blob/main/EmotionDetection/__init__.py
+- server.py: https://github.com/vedantvk12/emotion/blob/main/server.py
+- test_emotion_detection.py: https://github.com/vedantvk12/emotion/blob/main/test_emotion_detection.py
 
 ALL EVIDENCE FILES:
 - 2a_emotion_detection.txt

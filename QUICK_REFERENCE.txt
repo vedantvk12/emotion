@@ -12,7 +12,7 @@ Q1: README Link
 
 Paste this URL:
 
-https://github.com/brovk2008/emotion-detection-project/blob/main/README.md
+https://github.com/vedantvk12/emotion/blob/main/README.md
 
 ================================================================================
 Q2-Q5, Q7-Q16: Copy from Evidence Files
@@ -26,7 +26,7 @@ Files to use:
   Q3  → 2b_application_creation.txt
   Q4  → 3a_output_formatting.txt
   Q5  → 3b_formatted_output_test.txt
-  Q6  → https://github.com/brovk2008/emotion-detection-project/blob/main/EmotionDetection/__init__.py
+  Q6  → https://github.com/vedantvk12/emotion/blob/main/EmotionDetection/__init__.py
   Q7  → 4b_packaging_test.txt
   Q8  → 5a_unit_testing.txt
   Q9  → 5b_unit_testing_result.txt
@@ -42,7 +42,7 @@ Files to use:
 GITHUB REPOSITORY
 ================================================================================
 
-Repository: https://github.com/brovk2008/emotion-detection-project
+Repository: https://github.com/vedantvk12/emotion
 All evidence files and source code are available in this repository.
 
 ================================================================================

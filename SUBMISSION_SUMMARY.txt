@@ -5,7 +5,7 @@ ANSWER MAPPING TABLE FOR GRADING
 
 Question 1: README URL
 -----------------------------------------------------------------------
-https://github.com/brovk2008/emotion-detection-project/blob/main/README.md
+https://github.com/vedantvk12/emotion/blob/main/README.md
 
 Question 2: Emotion Detection Function Code
 -----------------------------------------------------------------------
@@ -25,7 +25,7 @@ See file: 3b_formatted_output_test.txt
 
 Question 6: Package __init__.py URL
 -----------------------------------------------------------------------
-https://github.com/brovk2008/emotion-detection-project/blob/main/EmotionDetection/__init__.py
+https://github.com/vedantvk12/emotion/blob/main/EmotionDetection/__init__.py
 
 Question 7: Package Import Test Proof
 -----------------------------------------------------------------------
@@ -70,7 +70,7 @@ See file: 8b_static_code_analysis.txt
 
 GITHUB REPOSITORY
 =====================================================
-Repository URL: https://github.com/brovk2008/emotion-detection-project
+Repository URL: https://github.com/vedantvk12/emotion
 Repository Name: emotion-detection-project
 Branch: main
 Last Commit: Update Flask to compatible version 3.1.3
